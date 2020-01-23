@@ -31,6 +31,9 @@
   <ItemGroup>
     <None Include="app.ts" />
     <Content Include="package.json" />
+    <Content Include="index.html">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="README.md" />
     <Content Include="tsconfig.json" />
   </ItemGroup>
